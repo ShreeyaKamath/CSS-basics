@@ -1,0 +1,23 @@
+*{
+    color : black;
+}
+h1{
+    color: rgba(255, 94, 0, 0.789);
+}
+#headingThree {
+    color :darkred;
+}
+
+#headingTwo {
+    color :rgb(95, 42, 165);
+}
+
+button{
+    color :deeppink;
+    background-color: blue;
+}
+
+body{
+    background-color: aquamarine;
+}
+
